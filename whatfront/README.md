@@ -366,7 +366,7 @@ def get_access_token(username):
 
 调用百度千帆大模型
 
-![2](E:\api\whatmake\whatfront\photo\2.png)
+![2](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/2.png)
 
 ```python
 def call_baidu_api(content, option,username):
@@ -481,7 +481,7 @@ def interact():
 
 ### 3.数据库实现
 
-![3](E:\api\whatmake\whatfront\photo\3.png)
+![3](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/3.png)
 
 ```mysql
 /*
@@ -568,46 +568,46 @@ SET FOREIGN_KEY_CHECKS = 1;
 
 开启前后端
 
-![4](E:\api\whatmake\whatfront\photo\4.png)
+![4](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/4.png)
 
-![5](E:\api\whatmake\whatfront\photo\5.png)
+![5](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/5.png)
 
 进入注册页面进行注册
 
-![6](E:\api\whatmake\whatfront\photo\6.png)
+![6](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/6.png)
 
 注册完成后登录
 
-![7](E:\api\whatmake\whatfront\photo\7.png)
+![7](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/7.png)
 
 进入编辑界面，左侧为编辑区，右侧为api响应区。
 左侧编辑区可以利用上方工具栏进行文本编辑处理
 
-![8](E:\api\whatmake\whatfront\photo\8.png)
+![8](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/8.png)
 
 右上方头像点击后进入设置界面
-![9](E:\api\whatmake\whatfront\photo\9.png)
+![9](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/9.png)
 
 设置个人基本信息并绑定api账号![image-20240718105921191]
 
-![10](E:\api\whatmake\whatfront\photo\10.png)
-![11](E:\api\whatmake\whatfront\photo\11.png)
+![10](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/10.png)
+![11](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/11.png)
 
 选中效果
 
-![12](E:\api\whatmake\whatfront\photo\12.png)
+![12](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/12.png)
 
-![13](E:\api\whatmake\whatfront\photo\13.png)
+![13](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/13.png)
 
 提交可以得到语言美化结果
-![14](E:\api\whatmake\whatfront\photo\14.png)
+![14](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/14.png)
 
 提交可以得到语言转换的结果
-![15](E:\api\whatmake\whatfront\photo\15.png)
+![15](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/15.png)
 
 双击悬浮图标可以打开交互式助手，进行询问
 
-![16](E:\api\whatmake\whatfront\photo\16.png)
+![16](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/16.png)
 
 
 
