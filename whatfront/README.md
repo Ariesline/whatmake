@@ -151,7 +151,7 @@ const register = () => {
 
 包含编辑器界面设计以及基础工具栏，编辑器选择内容实现快速的文本美化以及语言转换功能，Agent技术实现交互式助手三大功能
 
-![1](E:\api\whatmake\whatfront\photo\1.png)
+![1](https://github.com/Ariesline/whatmake/blob/main/whatfront/photo/1.png)
 
 基础工具栏的设计利用的是`tiptap`模块
 
